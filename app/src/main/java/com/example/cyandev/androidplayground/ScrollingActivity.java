@@ -14,6 +14,8 @@ public class ScrollingActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
